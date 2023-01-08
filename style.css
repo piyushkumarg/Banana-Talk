@@ -59,12 +59,16 @@ textarea {
 
 button {
   background-color: #cac531;
-  border: none;
+  border-color: #cac531;
   margin: 1rem 0rem;
   border-radius: 1rem;
   padding: 1rem 2rem;
   font-family: "Kalam", cursive;
   font-size: large;
+}
+
+button:hover {
+  border-color: #333333;
 }
 
 .footer {
