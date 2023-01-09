@@ -105,3 +105,19 @@ button:hover {
 .links i {
   font-size: 1.5rem;
 }
+
+.links .fa-github:hover {
+  color: #333333;
+}
+
+.links .fa-linkedin-in:hover {
+  color: #000fff;
+}
+
+.links .fa-twitter:hover {
+  color: #000fff;
+}
+
+.links .fa-instagram:hover {
+  color: #ee4e14;
+}
